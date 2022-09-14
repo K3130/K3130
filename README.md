@@ -9,7 +9,8 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 <img src="https://github.com/gbytegear/github-stats/blob/master/generated/languages.svg" height="180"/>
 </p>
 
-📬a07adf2d675c@mail.ru
+📬 a07adf2d675c@mail.ru <br />
+
 <summary>⚙️ Other</summary>
 
   * 🔌Git (CLI)
