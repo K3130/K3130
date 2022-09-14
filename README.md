@@ -11,6 +11,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 📬 a07adf2d675c@mail.ru <br />
 
+<details>
 <summary>⚙️ Other</summary>
 
   * 🔌Git (CLI)
