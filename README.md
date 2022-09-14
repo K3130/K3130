@@ -22,6 +22,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
   * **Build system**:
     * Make
     * QMake
+    * CMake
   * **Debugger**:
     * GDB
   * **Frameworks**:
