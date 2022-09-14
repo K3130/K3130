@@ -13,6 +13,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 <details>
 <summary>👾 C++ (11/17)</summary>
+ 
 * 🛠️ **Tools**:
   * **Compiler**:
     * GCC
@@ -25,9 +26,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
     * GDB
   * **Frameworks**:
     * Qt 5
-      * Qt Quick
-      * QNetwork
-      * QSql (SQLite)
+    
 </details>
 
 <details>
