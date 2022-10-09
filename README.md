@@ -22,7 +22,8 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
   * **Debugger**:
     * GDB
   * **Frameworks**:
-    * Qt 5
+    * Boost::asio
+    * Qt
     
 </details>
 
