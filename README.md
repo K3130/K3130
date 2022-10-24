@@ -31,6 +31,10 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 <summary>⚙️ Other</summary>
 
   * 🔌Git (CLI)
+  * 📝Editor
+    * Vim
+    * VSCode
+    * MVS
   * 🐧**Linux**:
     * Distributions:
       * Ubuntu
