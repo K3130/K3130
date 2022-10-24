@@ -5,7 +5,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 📬 a07adf2d675c@mail.ru <br />
 
-# 💻 My programming skills:
+## 💻 My pet project: https://github.com/K3130/TCP-IP-Server
 
 <details>
 <summary>👾 C++ (11/17)</summary>
