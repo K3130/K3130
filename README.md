@@ -7,6 +7,13 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 #### 💻 My pet project: https://github.com/K3130/TCP-IP-Server
 
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K3130&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 <details>
 <summary>👾 C++ (11/17)</summary>
  
@@ -42,3 +49,5 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
       * Bash
       * Fish
 </details>
+
+
