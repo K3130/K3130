@@ -10,7 +10,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K3130&theme=white&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K3130&theme=dark&background=ffffff)](https://git.io/streak-stats)
 
 
 
