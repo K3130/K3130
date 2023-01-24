@@ -9,7 +9,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 
 ### :fire: My Stats :
-![Leetcode Stats](https://leetcard.jacoblin.cool/K3130?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/k3130?site=cn)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K3130&theme=white&background=ffffff)](https://git.io/streak-stats)
 
