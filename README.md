@@ -5,8 +5,8 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 
 📬 a07adf2d675c@mail.ru <br />
 
-#### 💻 My pet project: https://github.com/K3130/TCP-IP-Server
-
+#### 💻 My pet project tcp server: https://github.com/K3130/TCP-IP-Server
+#### 💻 My pet project Qt SQL solution: https://github.com/K3130/data_base_manager
 
 ### :fire: My Stats :
 ![Leetcode Stats](https://leetcard.jacoblin.cool/K3130?theme=light&font=Contrail%20One)
