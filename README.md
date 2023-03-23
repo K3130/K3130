@@ -9,7 +9,7 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 #### 💻 My pet project Qt SQL solution: https://github.com/K3130/data_base_manager
 
 ### :fire: My Stats :
-![Leetcode Stats](https://leetcard.jacoblin.cool/K3130?width=500&height=500?theme=light&font=Contrail%20One)
+![Leetcode Stats](https://leetcard.jacoblin.cool/K3130?width=200&height=100?theme=light&font=Contrail%20One)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K3130&theme=white&background=ffffff)](https://git.io/streak-stats)
 
