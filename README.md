@@ -10,12 +10,12 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 #### boost Serial port: https://github.com/K3130/com_port_reciever_sender
 #### Qt SQL solution: https://github.com/K3130/data_base_manager
 
+<!---
+### intro (on qml): 
+![chat2](https://github.com/K3130/K3130/assets/23383424/6d2324b2-9167-40b7-9314-0bd805a03937)
 
-[//]: ### intro (on qml): 
-[//]: ![chat2](https://github.com/K3130/K3130/assets/23383424/6d2324b2-9167-40b7-9314-0bd805a03937)
-
-[//]: ### This: https://github.com/K3130/intro
-
+### This: https://github.com/K3130/intro
+-->
 
 <details>
  <summary>:fire: My Stats :</summary>
