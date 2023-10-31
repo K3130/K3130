@@ -8,6 +8,9 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 ### 🔨 main project:
 #### CRM SYSTEM https://github.com/K3130/KCRM
 
+
+
+
 ### 💻 My pet projects:
 #### boost TCP server: https://github.com/K3130/TCP-IP-Server
 #### boost Serial port: https://github.com/K3130/com_port_reciever_sender
