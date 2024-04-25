@@ -6,12 +6,13 @@ I am developing my skills in programming in C++ with STL or other libraries.<br 
 #### 📬 My email: a07adf2d675c@mail.ru <br />
 
 ### 🔨 main project:
-#### CRM SYSTEM https://github.com/K3130/KCRM  
+  
   
   
   
   
 ### 💻 My pet projects:
+#### CRM SYSTEM https://github.com/K3130/KCRM
 #### boost TCP server: https://github.com/K3130/TCP-IP-Server
 #### boost Serial port: https://github.com/K3130/com_port_reciever_sender
 #### Qt SQL solution: https://github.com/K3130/data_base_manager
